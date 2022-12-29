@@ -1,8 +1,8 @@
 # Pinging the Pong
 
-#### https://youtu.be/vOznv5k090o
+## https://youtu.be/vOznv5k090o
 
-#### Description:
+### Description:
 
 Ping pong is a old school game which somehow is still played, by thousands.
 
